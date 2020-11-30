@@ -20,6 +20,6 @@ The code was run using Python 3.7.4. Other versions may work as well, but are un
 * pandas 0.25.1
 
 ## How to use
-1. Download [the Extended WebNLG repository](https://github.com/ThiagoCF05/webnlg).
+1. Download [the Extended WebNLG repository](https://github.com/ThiagoCF05/webnlg), put it in this folder, and call it `webnlg-master`.
 2. Run `python analyse_all_pred_freq.py`. This generates the main figure, and some statistics about the number of examples for each predicate.
 3. Run `python analyse_templates.py`. All relevant information is printed in the Terminal.
